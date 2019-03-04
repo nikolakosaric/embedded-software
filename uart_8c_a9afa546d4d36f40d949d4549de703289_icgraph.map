@@ -1,0 +1,7 @@
+<map id="UART_RegisterReceiver" name="UART_RegisterReceiver">
+<area shape="rect" id="node2" href="$_s_t_m32_l475_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main program. " alt="" coords="301,5,352,32"/>
+<area shape="rect" id="node3" href="$laser__comms_8h.html#aedffc10b3a2c95e1f1e3af96a9db2941" title="LaserComms_Init" alt="" coords="264,56,389,83"/>
+<area shape="rect" id="node4" href="$group__game.html#gaa016ca6720f166d9ac68ce5bed3200b3" title="Game_RegisterPlayer1Receiver" alt="" coords="222,107,431,133"/>
+<area shape="rect" id="node5" href="$group__game.html#ga19d33e0d7595bdfc7595e1c68299a36c" title="Register Player 2 UART Channel. " alt="" coords="222,157,431,184"/>
+<area shape="rect" id="node6" href="$group__subsystem.html#gac6c1f4620c85ddcd4dc1d24916c7376e" title="Subsystem_SystemEnable" alt="" coords="237,208,417,235"/>
+</map>

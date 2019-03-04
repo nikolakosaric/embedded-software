@@ -1,0 +1,5 @@
+<map id="Game_CharXY" name="Game_CharXY">
+<area shape="rect" id="node2" href="$group__game.html#ga6ac9654d6336ac9948ae387c8d24adfa" title="Game_DrawTile" alt="" coords="169,5,285,32"/>
+<area shape="rect" id="node3" href="$group__game.html#ga42906baf18e9fcf43d0a139c4832c39e" title="Game_DrawRect" alt="" coords="165,56,288,83"/>
+<area shape="rect" id="node4" href="$group__game.html#ga9ceb81df99ed4f60be3b71c0c40021fb" title="Game_FillRect" alt="" coords="172,107,281,133"/>
+</map>

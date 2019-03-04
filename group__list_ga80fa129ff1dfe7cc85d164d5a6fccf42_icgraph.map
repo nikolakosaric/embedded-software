@@ -1,0 +1,9 @@
+<map id="List_Remove" name="List_Remove">
+<area shape="rect" id="node2" href="$group__task.html#gafd2aa563748d1ede229e5867753ead5d" title="SystemTick" alt="" coords="159,56,251,83"/>
+<area shape="rect" id="node5" href="$group__task.html#gacd7cea229f4ff2d572cfd743f0334f95" title="Removes Task. " alt="" coords="152,107,259,133"/>
+<area shape="rect" id="node3" href="$_m_s_p430_f5529_2_game_example_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="353,5,404,32"/>
+<area shape="rect" id="node4" href="$group__task.html#ga1b47b1c6f5dc133b3b6134474783f6f1" title="WaitMs" alt="" coords="345,56,412,83"/>
+<area shape="rect" id="node6" href="$aws__subscribe__publish__sensor__values_8c.html#a29c6aa4a06b5921a00d8576904b552e6" title="service_sensor_logic" alt="" coords="307,107,451,133"/>
+<area shape="rect" id="node7" href="$aws__subscribe__publish__sensor__values_8c.html#a357271d7b0f646c0b09f776d90639219" title="init_sensor_subscribe" alt="" coords="499,107,647,133"/>
+<area shape="rect" id="node8" href="$aws__subscribe__publish__sensor__values_8c.html#a0ae7b5ce0916e42969f36cdb39396201" title="subscribe_publish_sensor\l_values" alt="" coords="697,99,869,141"/>
+</map>

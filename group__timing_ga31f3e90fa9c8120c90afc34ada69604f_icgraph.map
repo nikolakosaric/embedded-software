@@ -1,0 +1,10 @@
+<map id="TimeSince" name="TimeSince">
+<area shape="rect" id="node2" href="$_s_t_m32_l475_2main_8c.html#ab5c8937019d79ba9e3034b8da9a3196b" title="Waiting for button to be pushed. " alt="" coords="139,5,309,32"/>
+<area shape="rect" id="node3" href="$aws__subscribe__publish__sensor__values_8c.html#a29c6aa4a06b5921a00d8576904b552e6" title="service_sensor_logic" alt="" coords="357,31,501,57"/>
+<area shape="rect" id="node6" href="$laser__tag_8h.html#a4aa14caf9f62557029cfdf3dd922a57d" title="LaserTag_Fire" alt="" coords="171,107,277,133"/>
+<area shape="rect" id="node7" href="$group__task.html#ga1b47b1c6f5dc133b3b6134474783f6f1" title="WaitMs" alt="" coords="191,157,257,184"/>
+<area shape="rect" id="node8" href="$group__timing.html#ga6158e669fa36ba48f9d1eb7141b07083" title="Delay a specific number of milliseconds. " alt="" coords="187,208,261,235"/>
+<area shape="rect" id="node4" href="$aws__subscribe__publish__sensor__values_8c.html#a357271d7b0f646c0b09f776d90639219" title="init_sensor_subscribe" alt="" coords="550,31,698,57"/>
+<area shape="rect" id="node5" href="$aws__subscribe__publish__sensor__values_8c.html#a0ae7b5ce0916e42969f36cdb39396201" title="subscribe_publish_sensor\l_values" alt="" coords="747,23,919,65"/>
+<area shape="rect" id="node9" href="$group__game.html#ga42906baf18e9fcf43d0a139c4832c39e" title="Game_DrawRect" alt="" coords="368,208,491,235"/>
+</map>

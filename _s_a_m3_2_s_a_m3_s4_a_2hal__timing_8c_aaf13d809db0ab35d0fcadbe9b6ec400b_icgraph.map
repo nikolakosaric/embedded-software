@@ -1,0 +1,9 @@
+<map id="hal_timing_isr" name="hal_timing_isr">
+<area shape="rect" id="node2" href="$group__hal__timing.html#ga2ae272e43fc73c8dc8718cb1adb723bf" title="hal_Timing_Init" alt="" coords="158,56,269,83"/>
+<area shape="rect" id="node3" href="$group__timing.html#ga6a7bd5705bafa4dd205b38a13e50263c" title="Initialize the timing module. " alt="" coords="318,56,405,83"/>
+<area shape="rect" id="node4" href="$_s_t_m32_l475_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main program. " alt="" coords="467,5,517,32"/>
+<area shape="rect" id="node5" href="$laser__comms_8h.html#aedffc10b3a2c95e1f1e3af96a9db2941" title="LaserComms_Init" alt="" coords="712,69,837,96"/>
+<area shape="rect" id="node6" href="$group__task.html#gaa6ab5350efe602f7bdfdca42aa57aff2" title="Task_Init" alt="" coords="454,107,530,133"/>
+<area shape="rect" id="node7" href="$_m_s_p430_f5529_2_game_example_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="749,145,800,172"/>
+<area shape="rect" id="node8" href="$uart_8c.html#ace506ef2867a6ee30406b132eb624ed8" title="UART_Init" alt="" coords="579,107,663,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="hal_SPI_Init" name="hal_SPI_Init">
+<area shape="rect" id="node2" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#ae30fb4ff34d9ce7d511877e68d427c8d" title="hal_SPI_DisableTxInterrupt" alt="" coords="147,5,330,32"/>
+<area shape="rect" id="node3" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a608c86ce4ba822ab908382bdcf918139" title="hal_SPI_DisableRxInterrupt" alt="" coords="147,56,331,83"/>
+<area shape="rect" id="node4" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#ae2197bfc4cf1afc71801c9e437fc1b1e" title="hal_SPI_Disable" alt="" coords="179,107,298,133"/>
+<area shape="rect" id="node5" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a1f11eb143032f9f16412f0b273f111d8" title="hal_SPI_DataAvailable" alt="" coords="161,157,317,184"/>
+<area shape="rect" id="node6" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#ac2e7f0795709f8710645b6e2ede1e5ca" title="hal_SPI_RxByte" alt="" coords="179,208,298,235"/>
+<area shape="rect" id="node7" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a4af8a5a063aff7bf9980ad4595fd6782" title="hal_SPI_ClearRxIF" alt="" coords="171,259,306,285"/>
+<area shape="rect" id="node8" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#aca551e69ffadbdc7320053fecdfb47f2" title="hal_SPI_ClearTxIF" alt="" coords="172,309,305,336"/>
+<area shape="rect" id="node9" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a5979b61b06304955e2cd60edef1642f2" title="hal_SPI_EnableRxInterrupt" alt="" coords="149,360,329,387"/>
+<area shape="rect" id="node10" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#ad56cd978c61e6a082c7418363912e0a0" title="hal_SPI_Enable" alt="" coords="181,411,296,437"/>
+</map>

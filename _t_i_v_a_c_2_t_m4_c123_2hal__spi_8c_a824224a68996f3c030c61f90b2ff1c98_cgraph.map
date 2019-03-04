@@ -1,0 +1,9 @@
+<map id="hal_SPI_Init" name="hal_SPI_Init">
+<area shape="rect" id="node2" href="$_t_i_v_a_c_2_t_m4_c123_2hal__spi_8c.html#a0ab79e051fe3684a6fcb68349f7c0c3f" title="SPI_ISR0" alt="" coords="197,5,278,32"/>
+<area shape="rect" id="node3" href="$_t_i_v_a_c_2_t_m4_c123_2hal__spi_8c.html#afce5adeee2fb3ea9c07c952a20dc0ea0" title="SPI_ISR1" alt="" coords="197,56,278,83"/>
+<area shape="rect" id="node4" href="$_t_i_v_a_c_2_t_m4_c123_2hal__spi_8c.html#ae8baa209519c9497994a20c552ce9162" title="SPI_ISR2" alt="" coords="197,107,278,133"/>
+<area shape="rect" id="node5" href="$_t_i_v_a_c_2_t_m4_c123_2hal__spi_8c.html#a823aea02e2189555596e9cec4fa7d9f9" title="SPI_ISR3" alt="" coords="197,157,278,184"/>
+<area shape="rect" id="node6" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#ad56cd978c61e6a082c7418363912e0a0" title="hal_SPI_Enable" alt="" coords="180,208,295,235"/>
+<area shape="rect" id="node7" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a4af8a5a063aff7bf9980ad4595fd6782" title="hal_SPI_ClearRxIF" alt="" coords="170,259,305,285"/>
+<area shape="rect" id="node8" href="$_m_s_p430_2_m_s_p430_f5529_2hal__spi_8c.html#a5979b61b06304955e2cd60edef1642f2" title="hal_SPI_EnableRxInterrupt" alt="" coords="147,309,327,336"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="RestoreInterrupts" name="RestoreInterrupts">
+<area shape="rect" id="node2" href="$group__buffer.html#gac399f2bb7bfaa376ad14813e4b2ae288" title="Buffer_Enqueue" alt="" coords="191,349,305,376"/>
+<area shape="rect" id="node27" href="$group__buffer.html#gad122bcd1cf8fc3bd5e803ce1372d6227" title="Buffer_Dequeue" alt="" coords="190,1185,306,1212"/>
+<area shape="rect" id="node28" href="$uart_8c.html#a008186aec9ff8f73dd86d85470e98633" title="Main UART routine which calls subscribers and handles errors. " alt="" coords="393,1185,484,1212"/>
+<area shape="rect" id="node34" href="$group__buffer.html#gae1d8418dfea8c2aa4152f3cd44c33cd6" title="Buffer_EnqueueData" alt="" coords="177,1565,319,1592"/>
+<area shape="rect" id="node36" href="$group__list.html#ga1a8339a388bfff7c959d5487ac829cd1" title="List_AddIndirect is used to obtain a valid position for which an item can be saved to..." alt="" coords="190,1363,306,1389"/>
+<area shape="rect" id="node46" href="$group__list.html#ga645d81a49b82c4009487089fd4f98338" title="List_Link" alt="" coords="211,1464,285,1491"/>
+<area shape="rect" id="node47" href="$group__task.html#gafd2aa563748d1ede229e5867753ead5d" title="SystemTick" alt="" coords="393,1464,485,1491"/>
+<area shape="rect" id="node49" href="$group__list.html#gab6f45e11004da187e5637ab46831d39b" title="List_LinkItem" alt="" coords="198,1515,298,1541"/>
+<area shape="rect" id="node3" href="$group__buffer__printf.html#ga16338dfb2900461bb027bf40815b2897" title="vprintf implementation to char buffer " alt="" coords="993,233,1093,260"/>
+<area shape="rect" id="node5" href="$group__buffer__printf.html#gae81a12b586e1f8df3736ba326246278d" title="Push unsigned integer to char buffer. " alt="" coords="389,121,488,148"/>
+<area shape="rect" id="node6" href="$group__buffer__printf.html#gab94b7f86abcc80b6b14a35c96bc012c5" title="Push integer to char buffer. " alt="" coords="631,121,723,148"/>
+<area shape="rect" id="node7" href="$group__buffer__printf.html#ga1f1a2db71df2dff8d5619fe152eff280" title="Cheap implementation of float to char buffer. " alt="" coords="848,204,941,231"/>
+<area shape="rect" id="node8" href="$group__buffer__printf.html#gaf65e2c9c9d00ddb7e5ae91248a86c4cb" title="Push 16 bit binary number to char buffer. " alt="" coords="381,476,496,503"/>
+<area shape="rect" id="node9" href="$group__buffer__printf.html#ga5af51f7d541876c97393761c9cdb62f4" title="Push long to char buffer. " alt="" coords="631,273,723,300"/>
+<area shape="rect" id="node10" href="$group__buffer__printf.html#ga894d0b01c2412babde947608818f367e" title="Push unsigned long integer to char buffer. " alt="" coords="389,324,488,351"/>
+<area shape="rect" id="node11" href="$group__buffer__printf.html#ga330d945e8e99265f5cd1e18ad6a13114" title="Push char array (string) to char buffer. " alt="" coords="854,375,935,401"/>
+<area shape="rect" id="node12" href="$group__buffer__printf.html#ga07605350ce76ff0b2b46740c201d8f68" title="Push 32 bit value to char buffer in hex format. " alt="" coords="845,425,944,452"/>
+<area shape="rect" id="node13" href="$uart_8c.html#a2763d69dd456fefdfb02908994dc31ef" title="Write a single byte to UART. " alt="" coords="377,527,501,553"/>
+<area shape="rect" id="node16" href="$uart_8c.html#a522aaeb0db3ac744ef8684ee67b66c4c" title="UART receive interrupt handler. " alt="" coords="371,780,506,807"/>
+<area shape="rect" id="node4" href="$group__buffer__printf.html#gafabeb712c1aa0b8211cb4a77d38a0e39" title="printf implementation to char buffer " alt="" coords="1141,233,1235,260"/>
+<area shape="rect" id="node14" href="$laser__comms_8h.html#a244ea082f81cd179a030755be49694e2" title="LaserComms_Fire" alt="" coords="613,476,742,503"/>
+<area shape="rect" id="node15" href="$group__game.html#ga9ceb81df99ed4f60be3b71c0c40021fb" title="Game_FillRect" alt="" coords="623,527,732,553"/>
+<area shape="rect" id="node17" href="$_c_c3200_2hal__uart_8c.html#ad2d7d7092a37b8739d18f58fbeb79af8" title="hal_UART_ISR" alt="" coords="621,628,734,655"/>
+<area shape="rect" id="node18" href="$ds_p_i_c33_2ds_p_i_c33_f_j128_m_c802_2hal__uart_8c.html#a348b663f86a656f5ea991d496ff9b896" title="__attribute__" alt="" coords="629,577,726,604"/>
+<area shape="rect" id="node19" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#a3ba962057250edfdfd522e9da998f670" title="hal_UART0_ISR" alt="" coords="617,679,737,705"/>
+<area shape="rect" id="node20" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#ae0892bb401d55ba6cbf19347f010a6a8" title="hal_UART1_ISR" alt="" coords="617,729,737,756"/>
+<area shape="rect" id="node21" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#af476d1cfc79eb46672682ec6b8669c9b" title="hal_UART2_ISR" alt="" coords="617,780,737,807"/>
+<area shape="rect" id="node22" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#aba17f3bb2b52c5daf5aee66ff9b2e37b" title="hal_UART3_ISR" alt="" coords="617,831,737,857"/>
+<area shape="rect" id="node23" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#a2cd56e058a7a614555050551741083f3" title="hal_UART4_ISR" alt="" coords="617,881,737,908"/>
+<area shape="rect" id="node24" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#a0c2e3ef429d80e48e91566f16a6074b4" title="hal_UART5_ISR" alt="" coords="617,932,737,959"/>
+<area shape="rect" id="node25" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#a4ff1fb1743c66839e2d1205b05f246b8" title="hal_UART6_ISR" alt="" coords="617,983,737,1009"/>
+<area shape="rect" id="node26" href="$_t_i_v_a_c_2_t_m4_c123_2hal__uart_8c.html#a3319579fda4bef5475fd1bd757a9d10a" title="hal_UART7_ISR" alt="" coords="617,1033,737,1060"/>
+<area shape="rect" id="node32" href="$uart_8c.html#a40486aeabcf8a17f819de9d0e619f887" title="UART transmit interrupt handler. " alt="" coords="372,881,505,908"/>
+<area shape="rect" id="node29" href="$_s_t_m32_l475_2main_8c.html#a0ccade7b71b774de5752203d3ea8021b" title="while" alt="" coords="651,1135,703,1161"/>
+<area shape="rect" id="node30" href="$uart_8c.html#ace506ef2867a6ee30406b132eb624ed8" title="UART_Init" alt="" coords="635,1185,719,1212"/>
+<area shape="rect" id="node31" href="$_m_s_p430_f5529_2_game_example_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="869,1363,920,1389"/>
+<area shape="rect" id="node33" href="$_p_i_c32_m_m_2_p_i_c32_m_m0128_g_p_m028_2hal__uart_8c.html#a084a3a7f8cb9408aeee50ebdf639515a" title="__attribute__" alt="" coords="629,1084,726,1111"/>
+<area shape="rect" id="node35" href="$uart_8c.html#a33a9b6cfd274cdbbd7887a8924d48fcb" title="Write chunk of data to UART tx buffer. " alt="" coords="390,1565,487,1592"/>
+<area shape="rect" id="node37" href="$group__list.html#ga26a446933466c8a9ecc7a86ffec8356e" title="List_Add is used to add an item to a list. Uses List_AddIndirect to find where the item should go in ..." alt="" coords="402,1363,475,1389"/>
+<area shape="rect" id="node38" href="$group__task.html#ga369f11dc366a40af2255cef77706b56f" title="Adds a function to the task queue. " alt="" coords="391,1413,487,1440"/>
+<area shape="rect" id="node40" href="$group__task.html#ga7fc124db459cf9e6f4b0ffb4083eff7e" title="Adds task to be scheduled for execution. " alt="" coords="383,1312,495,1339"/>
+<area shape="rect" id="node39" href="$group__adc__module.html#ga2e9322a25239ab1adf88a7114f098707" title="ADC_ProcessMeasurementFromISR" alt="" coords="558,1489,797,1516"/>
+<area shape="rect" id="node41" href="$_s_t_m32_l475_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main program. " alt="" coords="652,1236,703,1263"/>
+<area shape="rect" id="node42" href="$aws__subscribe__publish__sensor__values_8c.html#a357271d7b0f646c0b09f776d90639219" title="init_sensor_subscribe" alt="" coords="603,1287,751,1313"/>
+<area shape="rect" id="node43" href="$laser__comms_8h.html#aa02a65f059f4a6634aeb6f443929b080" title="LaserComms_HitFilter" alt="" coords="601,1337,754,1364"/>
+<area shape="rect" id="node44" href="$group__adc__module.html#ga29fac3f43b56d8d48bf6f18f8e315eb0" title="add a channel to the list of channels to measure, a period at which to measure it, and a callback " alt="" coords="613,1388,742,1415"/>
+<area shape="rect" id="node45" href="$mqtt_8c.html#a5cc7a21e4683f47241b21cb6974d5d15" title="MQTT_Init" alt="" coords="635,1439,719,1465"/>
+<area shape="rect" id="node48" href="$group__task.html#ga1b47b1c6f5dc133b3b6134474783f6f1" title="WaitMs" alt="" coords="644,1591,711,1617"/>
+<area shape="rect" id="node50" href="$group__task.html#ga111790bb83906b22b2c4e213464c4735" title="Task_ChangePeriod" alt="" coords="369,1515,509,1541"/>
+</map>
